@@ -1,8 +1,8 @@
 name: Automatically crawl CVEs
 on:
-   schedule:
-     - cron:  '10 * * * *'
-  #workflow_dispatch:
+  schedule:
+    - cron:  '10 * * * *'
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
