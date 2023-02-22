@@ -3,12 +3,12 @@
 #   可以在 recv 目录下创建名为 mail_xxx.dat 的文件名, 例如 mail_work.dat
 #   根据 .gitignore 规则，该文件并不会上传到代码仓库，你可在里面设置你的工作邮箱
 
-mrxn.net@gmail.com
-2856381152@qq.com
-2567817993@qq.com
-3191893127@qq.com
-gzg19951122@163.com
-1010698366@qq.com
-704286397@qq.com
-sakura404x@163.com
-wkaifeng2007@163.com
+#mrxn.net@gmail.com
+#2856381152@qq.com
+#2567817993@qq.com
+#3191893127@qq.com
+#gzg19951122@163.com
+#1010698366@qq.com
+#704286397@qq.com
+#sakura404x@163.com
+#wkaifeng2007@163.com
